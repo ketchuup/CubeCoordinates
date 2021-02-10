@@ -1,5 +1,6 @@
 # CubeCoordinates
-Generator n-dimensional cube's coordinates..
+Generator n-dimensional cube's coordinates.
+
 Generator works only if 1 ≤ dimension ≤ 62.
 
 If you want to get:
